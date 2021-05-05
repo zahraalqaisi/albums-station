@@ -1,0 +1,88 @@
+body{
+  margin: 0%;
+  background-color: #F0E6F0;
+}
+
+
+header{
+  color: rgb(240, 216, 226);
+
+  background-color: #787E9E;
+  height: 90px;
+
+
+}
+
+
+header nav{
+  float: right;
+  width: 35%;
+  margin-top: 15px;
+  
+
+}
+header h1{
+  float: left;
+  margin-left: 40px;
+
+}
+
+header nav ul il{
+  display: inline-block;
+  margin-right: 20px;
+}
+header nav ul il a{
+  color: rgb(240, 216, 226);
+  text-decoration: none;
+ 
+}
+#one{
+  background-color: #787E9E;
+  width: 80%;
+  height: 300px;
+  text-align: center;
+  margin: 50px 0 50px 10%;
+
+}
+
+#one h3{
+ font-size: 40px;
+ padding-top: 80px;
+ color:  rgb(240, 216, 226);
+
+}
+#one p{
+  font-size: 30px;
+  color:  rgb(240, 216, 226);
+
+
+}
+
+#two{
+  color: rgb(240, 216, 226);
+  background-color:#787e9e;
+   margin-bottom: 30px;
+
+}
+
+.fun{
+  text-align: center;
+  display: inline-block;
+  height: 300px;
+  width: 30%;
+  margin-left:30%;
+  margin-bottom: 50px;
+
+}
+
+footer{
+  height: 100px;
+  color: rgb(240, 216, 226);
+   background-color:#787e9e;
+   text-align: center;
+}
+  
+
+
+
+
