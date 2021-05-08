@@ -61,17 +61,17 @@ header nav ul il a{
 #two{
   color: rgb(240, 216, 226);
   background-color:#787e9e;
-   margin-bottom: 30px;
+   margin-bottom: 60px;
 
 }
 
 .fun{
-  text-align: center;
+    text-align: center;
   display: inline-block;
-  height: 300px;
+  height: 450px;
   width: 30%;
-  margin-left:30%;
-  margin-bottom: 50px;
+  margin-left: 30px;
+  
 
 }
 
